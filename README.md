@@ -60,9 +60,7 @@ MyProfileReadme
 </td></tr></table>  
 <br/>  
 <br/>
-<div align="center">
-<img src="https://bloggingcoder.com/images/categories/mern.jpg" align="center" style="width: 100%; height:70% " />
-</div>  
+
 <br/>  
 <br/>
 
