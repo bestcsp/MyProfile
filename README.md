@@ -35,7 +35,7 @@ MyProfileReadme
 <div align="center">  
 <img style="margin: 10px" src="react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="./bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="./css3.svg" alt="CSS3" height="50" />  
+<img style="margin: 10px" src="./css.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="./html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="./javascript-original.svg" alt="JavaScript" height="50" />  
 
